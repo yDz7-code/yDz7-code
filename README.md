@@ -1,0 +1,6 @@
+- 👋 Hi, I’m yDz7
+- 👀 I'm more interested in .lua
+- 🌱 I’m currently learning .lua
+- 💞️ Estou procurando colaborar com meus scripts / codigos...
+- 📫 How to reach me Discord: ! yDz7#0775
+- 👋 I'm a novice developer so my codes are still not perfect ...
